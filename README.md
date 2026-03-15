@@ -5,6 +5,8 @@ In theory, these should be the "definitive" versions (so far) for each of these 
 
 Each set of subtitles has its own readme with more information. 
 
-Eventually, patch files will be included for convenience, since I obviously cannot provide the original video files here.
+Patch files are included for convenience, since I obviously cannot provide the original video files here.
+
+To patch, put an xdelta3 binary in the same folder as the sub files and video files, or add it to your path, then run one of the included scripts. For Windows, use `applypatch.bat`, and for Linux/macOS, use `applypatch.sh`.
 
 If you find any errors or can make improvements, please open an issue or pull request.
