@@ -34,8 +34,8 @@ Dialogue: 0,0:01:19.76,0:01:22.52,Signs,,0,0,0,,{\an8\fnFOT-Gospel Std EB\blur0.
 Dialogue: 0,0:01:28.27,0:01:31.40,Signs,,0,0,0,,{\an8\fnFOT-Gospel Std EB\blur0.6\pos(960,750)\fs200\fscx110\b1\c&H33A950&}Iceland
 Dialogue: 0,0:01:33.90,0:01:37.03,Signs,,0,0,0,,{\an8\fnFOT-Gospel Std EB\blur0.6\pos(960,750)\fs200\fscx110\b1\c&H33A950&}New Zealand
 Dialogue: 0,0:01:39.78,0:01:42.54,Signs,,0,0,0,,{\an8\fnFOT-Gospel Std EB\blur0.6\pos(960,750)\fs200\fscx110\b1\c&H33A950&}Avocado
-Dialogue: 0,0:01:46.29,0:01:49.79,Signs,,0,0,0,,{\an8\fnFOT-Gospel Std EB\blur0.6\pos(960,750)\fs150\fscx110\b1\c&H33A950&}Do{\1a&HFF&}-{\1a&H00&}re{\1a&HFF&}-{\1a&H00&}mi{\1a&HFF&}-{\1a&H00&}fa{\1a&HFF&}-{\1a&H00&}so{\1a&HFF&}-{\1a&H00&}la{\1a&HFF&}-{\1a&H00&}si{\1a&HFF&}-{\1a&H00&}do
-Dialogue: 0,0:01:46.29,0:01:49.79,Signs,,0,0,0,,{\an8\fnFOT-Gospel Std EB\blur0.6\pos(960,760)\fs150\fscx110\b1\c&H33A950&\1a&HFF&}Do{\1a&H00&}-{\1a&HFF&}re{\1a&H00&}-{\1a&HFF&}mi{\1a&H00&}-{\1a&HFF&}fa{\1a&H00&}-{\1a&HFF&}so{\1a&H00&}-{\1a&HFF&}la{\1a&H00&}-{\1a&HFF&}si{\1a&H00&}-{\1a&HFF&}do{future typesetters: note how this line is positioned differently from the other one}
+Dialogue: 0,0:01:46.29,0:01:49.79,Signs,,0,0,0,,{\an8\fnFOT-Gospel Std EB\blur0.6\pos(960,750)\fs150\fscx110\b1\c&H33A950&}Do{\1a&HFF&}-{\1a&H00&}re{\1a&HFF&}-{\1a&H00&}mi{\1a&HFF&}-{\1a&H00&}fa{\1a&HFF&}-{\1a&H00&}so{\1a&HFF&}-{\1a&H00&}la{\1a&HFF&}-{\1a&H00&}ti{\1a&HFF&}-{\1a&H00&}do
+Dialogue: 0,0:01:46.29,0:01:49.79,Signs,,0,0,0,,{\an8\fnFOT-Gospel Std EB\blur0.6\pos(960,760)\fs150\fscx110\b1\c&H33A950&\1a&HFF&}Do{\1a&H00&}-{\1a&HFF&}re{\1a&H00&}-{\1a&HFF&}mi{\1a&H00&}-{\1a&HFF&}fa{\1a&H00&}-{\1a&HFF&}so{\1a&H00&}-{\1a&HFF&}la{\1a&H00&}-{\1a&HFF&}ti{\1a&H00&}-{\1a&HFF&}do{future typesetters: note how this line is positioned differently from the other one}
 Dialogue: 0,0:01:52.80,0:01:55.55,Signs,,0,0,0,,{\an8\fnFOT-Gospel Std EB\blur0.6\pos(960,750)\fs200\fscx110\b1\c&H33A950&}Nude
 Dialogue: 0,0:01:55.55,0:01:56.88,Signs,,0,0,0,,{\p1\pos(0,0)\an7\blur1\c&HF5F4F4&}m 1294 658 l 1286 640 1283 625 1306 601 1322 613 1318 653
 Dialogue: 0,0:02:04.85,0:02:07.10,Signs,,0,0,0,,{\an8\fnFOT-Gospel Std EB\blur0.6\pos(960,750)\fs200\fscx110\b1\c&H33A950&}To be continued
@@ -69,7 +69,7 @@ Dialogue: 100,0:01:01.66,0:01:04.66,Default,,0,0,0,,{\c&H000000&\t(27,235,\c&HFF
 Dialogue: 100,0:01:04.66,0:01:05.87,Default,,0,0,0,,We're mermaids.
 Dialogue: 100,0:01:05.87,0:01:06.87,Default,,0,0,0,,You're backwards.
 Dialogue: 100,0:01:06.87,0:01:08.63,Default,,0,0,0,,Miss Kobayashi, you're my prince!
-Dialogue: 100,0:01:08.63,0:01:10.30,Default,,0,0,0,,I told you, you have it backwards!
+Dialogue: 100,0:01:08.63,0:01:10.30,Default,,0,0,0,,I told you, you have it backward!
 Dialogue: 100,0:01:10.30,0:01:11.38,Default,,0,0,0,,Let's dance!
 Dialogue: 100,0:01:11.38,0:01:12.80,Default,,0,0,0,,That's completely unrelated.
 Dialogue: 100,0:01:13.17,0:01:13.97,Default,,0,0,0,,Here is a gift.
@@ -90,8 +90,8 @@ Dialogue: 100,0:01:39.78,0:01:41.37,Default,,0,0,0,,Avocado.
 Dialogue: 100,0:01:41.37,0:01:43.70,Default,,0,0,0,,Miss Kobayashi's Avocadragon!
 Dialogue: 100,0:01:43.70,0:01:45.33,Default,,0,0,0,,Just like it sounds, huh?
 Dialogue: 100,0:01:45.33,0:01:46.29,Default,,0,0,0,,You split?
-Dialogue: 100,0:01:46.29,0:01:48.54,Default,,0,0,0,,Do-re-mi-fa-so-la-si-do.
-Dialogue: 100,0:01:48.54,0:01:51.67,Default,,0,0,0,,Miss Kobayashi's Do-re-mi-fa-so-la-si-dragon!
+Dialogue: 100,0:01:46.29,0:01:48.54,Default,,0,0,0,,Do-re-mi-fa-so-la-ti-do.
+Dialogue: 100,0:01:48.54,0:01:51.67,Default,,0,0,0,,Miss Kobayashi's Do-re-mi-fa-so-la-ti-dragon!
 Dialogue: 100,0:01:51.67,0:01:52.80,Default,,0,0,0,,Out of ideas, huh?
 Dialogue: 100,0:01:53.25,0:01:54.51,Default,,0,0,0,,Nude.
 Dialogue: 100,0:01:54.51,0:01:56.88,Default,,0,0,0,,Miss Kobayashi's Nudragon!
