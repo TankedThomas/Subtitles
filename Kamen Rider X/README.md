@@ -31,6 +31,8 @@ Timing issues likely still exist - I haven't checked every single line.
 You can rename these subs to use them with the the original files, or use the included patches.  
 If I can find the original raws (probably from BunnyHat), I will provide patches for those too.
 
+---
+
 ### Checksums
 
 | Original File | Original CRC32 | Patched File | Patched CRC32 |
