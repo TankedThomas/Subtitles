@@ -70,5 +70,5 @@ Since I removed long vowels everywhere else, they're removed here too.
 I might still change this one, because I'm unhappy with it, but I'm not sure.  
 * ヒルカメレオン Leechameleon -> Leech Chameleon  
 Again, the English name is contracted into a pun. This might work "better" in English... but it's wrong.  
-This one feels especially agregious - do you pronounce the "ch" as a hard sound or a soft sound? Making them separate words solve this conundrum.  
+This one feels especially egregious - do you pronounce the "ch" as a hard sound or a soft sound? Making them separate words solve this conundrum.  
 "Hiru" translates directly to "leech", and "chameleon" is the same in both languages (save for the obvious differences).  
