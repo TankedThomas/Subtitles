@@ -19,7 +19,8 @@ Though the former is usually used in English, and it's more accurate for an acro
 * Trivia/translation notes were removed from all bumpers.  
 Some of them were interesting, but they're not part of the show.  
 My personal opinion is that these belong in accompanying material, not as part of the in-show subtitles.
-* In episode 23, TMS mentioned a "mysterious" line from a little girl. Their translation is wrong. Checking the Japanese subtitles, the line in Japanese is 「私 うち中で軽井沢へ行くの」.  
+* In episode 23, TMS mentioned a "mysterious" line from a little girl. Their translation is wrong.  
+Checking the Japanese subtitles, the line in Japanese is 「私 うち中で軽井沢へ行くの」.  
 Therefore, the line "My family's going to Mt. Karei!" should be something like "I'm going to my house in Karuizawa".  
 Karuizawa is resort town in Nagano, so it's clearly her family's holiday home.  
 This makes more sense than the by-ear guess translation TMS did.
