@@ -1,6 +1,6 @@
 # Kamen Rider (1971)
 
-Based on the SoftSHOUT release, which uses Shout! Factory's subtitles.  
+Based on the **SoftSHOUT** release, which uses Shout! Factory's subtitles.  
 
 I wasn't happy with any of the releases available so I decided to make my own.  
 Shout! Factory has an incessant habit of using English name order, which doesn't line up with the audio. Their subtitles are otherwise mostly decent.  
